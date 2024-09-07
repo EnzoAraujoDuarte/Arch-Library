@@ -14,7 +14,7 @@ Sua jornada literária personalizada começa aqui. Na Arché Library, você enco
 Descubra clássicos da literatura, best-sellers do momento, e obras raras. Nossa biblioteca virtual é um tesouro de conhecimento, com uma vasta coleção de livros de todos os gêneros e estilos.
 
 
-#Agradecimentos:
+# Agradecimentos:
 
 Agradeço à Alura e ao Google pela oportunidade de participar da Imersão Dev com Google Gemini. Através desse programa, pude aprimorar minhas habilidades e aprender a utilizar a inteligência artificial como ferramenta para aumentar a produtividade e criar soluções inovadoras.
 
